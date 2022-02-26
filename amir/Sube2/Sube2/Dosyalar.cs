@@ -41,10 +41,7 @@ namespace Sube2
             string sonuc = "";
             sonuc= (dateTimePicker1.Value - dateTimePicker2.Value).Days.ToString();
             int a =  Convert.ToInt32(sonuc);
-            if (a < 0)
-                a *= -1;
-            else
-                a = a;
+            if (a < 0){a *= -1;}
             lblSonuc.Text = a.ToString();
         }
     }
