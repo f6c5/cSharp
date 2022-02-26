@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProjeModelStoreContainer" CdmEntityContainer="ProjeEntities">
+    <EntitySetMapping Name="tbl_biletler">
+      <EntityTypeMapping TypeName="ProjeModel.tbl_biletler">
+        <MappingFragment StoreEntitySet="tbl_biletler">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="seferid" ColumnName="seferid" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="SoyAd" ColumnName="SoyAd" />
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="koltukNO" ColumnName="koltukNO" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_Kullanicilar">
+      <EntityTypeMapping TypeName="ProjeModel.tbl_Kullanicilar">
+        <MappingFragment StoreEntitySet="tbl_Kullanicilar">
+          <ScalarProperty Name="SonGiris" ColumnName="SonGiris" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="SoyAd" ColumnName="SoyAd" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_otubusler">
+      <EntityTypeMapping TypeName="ProjeModel.tbl_otubusler">
+        <MappingFragment StoreEntitySet="tbl_otubusler">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="otubusAdi" ColumnName="otubusAdi" />
+          <ScalarProperty Name="Koltuk" ColumnName="Koltuk" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_seferler">
+      <EntityTypeMapping TypeName="ProjeModel.tbl_seferler">
+        <MappingFragment StoreEntitySet="tbl_seferler">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Nereden" ColumnName="Nereden" />
+          <ScalarProperty Name="Nereye" ColumnName="Nereye" />
+          <ScalarProperty Name="koltuk" ColumnName="koltuk" />
+          <ScalarProperty Name="soforID" ColumnName="soforID" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_soforler">
+      <EntityTypeMapping TypeName="ProjeModel.tbl_soforler">
+        <MappingFragment StoreEntitySet="tbl_soforler">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="SoyAd" ColumnName="SoyAd" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
