@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//SQL komutları eskidir 
 namespace wonka
 {
     public partial class frm_login : Form
