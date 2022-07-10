@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\bin\Debug\upper.exe.config
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\bin\Debug\upper.exe
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\bin\Debug\upper.pdb
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.Form1.resources
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.Properties.Resources.resources
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.exe
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.pdb
+=======
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\bin\Debug\upper.exe.config
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\bin\Debug\upper.exe
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\bin\Debug\upper.pdb
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.Form1.resources
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.Properties.Resources.resources
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.exe
+C:\Users\PC\Desktop\ferhat\helloWorld\public\cSharp\upper\upper\obj\Debug\upper.pdb
+>>>>>>> 906a39ed4508a79311a0c0f6699cc8842744d447
